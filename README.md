@@ -1,6 +1,4 @@
-# 
-draft-happel-sml-structured-vacation-notices
-
+# draft-happel-sml-structured-vacation-notices
 
 This repo contains sources for https://datatracker.ietf.org/doc/draft-happel-sml-structured-vacation-notices/
 
